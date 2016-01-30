@@ -1,0 +1,18 @@
+isolated plateform
+cache of data
+denormaliization 
+10-14 soruce system - sub set of data
+pre prepared data
+read only CDL ?
+active - active scenario documentation <--
+add service layer to data arch ..... snapshot manager .... <--
+resource mgmt done by dba's already ...'
+IORM , 
+REUSE EXISTING CLUSTER
+TIMELINES ? <--
+
+separation of duties... for GG ... standard operations activities ....
+design - tech req. ... design review to be started from next week.
+rollout of product - GG .... Jason V
+high level projec t plan with dates .... RK
+shared folder .... 
